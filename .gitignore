@@ -1,0 +1,5 @@
+warehouse/*.duckdb
+warehouse/*.duckdb.wal
+__pycache__/
+*.pyc
+.venv/
